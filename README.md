@@ -45,6 +45,7 @@ This repository includes essential competition materials, organized as follows:
 │ └── theme.md # Theme description and guidelines for programming challenges 
 └── reengineering/ # Folder containing re-engineering stream themes and materials 
 | └── theme.md # Theme description and guidelines for re-engineering challenges
+| └── case1.md # case 1 description for re-engineering
 ```
 
 ---
